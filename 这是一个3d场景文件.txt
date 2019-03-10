@@ -1,4 +1,4 @@
-ÕâÊÇÒ»¸ö·ÖÖ§ÇëÇó£¡
+ï»¿Ã•Ã¢ÃŠÃ‡Ã’Â»Â¸Ã¶Â·Ã–Ã–Â§Ã‡Ã«Ã‡Ã³Â£Â¡
 
 
 this is a new line!
@@ -8,5 +8,3 @@ this is a new line!
 this is tow line!
 
 This is my change on the second branch!
-
-this is three line!
